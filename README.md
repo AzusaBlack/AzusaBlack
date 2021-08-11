@@ -10,7 +10,6 @@ I’m currently learning
   <div style="display: inline_block"><br>
     <img align="center" alt="Azusa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
     <img align="center" alt="Azusa-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="Azusa-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   </div>
 
   ##
